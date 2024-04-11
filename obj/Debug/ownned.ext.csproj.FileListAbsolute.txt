@@ -1,0 +1,290 @@
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\ownned.ext.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\ownned.ext.pdb
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\0Harmony.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\bHapticsLib.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\AssetsTools.NET.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Tomlet.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\WebSocketDotNet.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\MelonLoader.xml
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\obj\Debug\ownned.ext.csproj.AssemblyReference.cache
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\obj\Debug\ownned.ext.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\obj\Debug\ownned.ext.csproj.CopyComplete
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\obj\Debug\ownned.ext.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\obj\Debug\ownned.ext.pdb
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Addressables.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.AI.Navigation.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Burst.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Collections.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.InternalAPIEngineBridge.013.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Localization.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Mathematics.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.PlayableGraphVisualizer.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.ResourceManager.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.ScriptableBuildPipeline.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Splines.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.Timeline.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.VisualScripting.Antlr3.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.VisualScripting.Core.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.VisualScripting.Flow.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Unity.VisualScripting.State.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.ContentLoadModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.GIModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UI.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\netstandard.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Assembly-CSharp.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\PhotonUnityNetworking.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Zorro.Core.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\SteamAudioUnity.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Zorro.Recorder.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Zorro.PhotonUtility.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Photon3Unity3D.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\PhotonRealtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\PhotonVoice.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\PhotonVoice.PUN.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Zorro.Settings.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\HBAO.Universal.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\sc.posteffects.runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Zorro.UI.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Sirenix.Serialization.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\PhotonChat.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\pworld.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Sirenix.Utilities.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\PhotonVoice.API.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\PhotonUnityNetworking.Utilities.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Sirenix.Serialization.Config.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\Discord.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\0Harmony.pdb
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\0Harmony.xml
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\MelonLoader.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\ownned.ext.dll.config
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Shadow\Desktop\ownned.ext\ownned.ext\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\obj\Debug\ownned.ext.csproj.AssemblyReference.cache
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\obj\Debug\ownned.ext.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\obj\Debug\ownned.ext.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\obj\Debug\ownned.ext.pdb
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\ownned.ext.dll.config
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\ownned.ext.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\ownned.ext.pdb
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\0Harmony.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Assembly-CSharp.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Photon3Unity3D.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\PhotonChat.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\PhotonRealtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\PhotonUnityNetworking.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\PhotonUnityNetworking.Utilities.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\PhotonVoice.API.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\PhotonVoice.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\PhotonVoice.PUN.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Addressables.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.AI.Navigation.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Burst.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Collections.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.InternalAPIEngineBridge.013.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Localization.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Mathematics.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.PlayableGraphVisualizer.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.ResourceManager.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.ScriptableBuildPipeline.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Splines.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.Timeline.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.VisualScripting.Antlr3.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.VisualScripting.Core.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.VisualScripting.Flow.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Unity.VisualScripting.State.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.ContentLoadModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.GIModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UI.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Zorro.Core.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\netstandard.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Zorro.Recorder.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Zorro.PhotonUtility.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Zorro.Settings.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\HBAO.Universal.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\sc.posteffects.runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Discord.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Zorro.UI.Runtime.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Sirenix.Serialization.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\pworld.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Sirenix.Utilities.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Sirenix.Serialization.Config.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\0Harmony.pdb
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\0Harmony.xml
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shadow\Desktop\ownned.ext\ownned injectable\obj\Debug\ownned.ext.csproj.CopyComplete
